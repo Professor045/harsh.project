@@ -1,0 +1,35 @@
+body{
+    background-image: url("indian railways.jpg");
+  background-repeat: no-repeat; 
+  background-color: black;
+  background-size: 1540px 790px;
+  }
+  
+  form{
+    background-color:#f7f7f7;
+    width: 520px;
+    height: 600px;
+    padding: 20px;
+    position: relative;
+    left: 900px;
+    border: 2px solid black;
+
+  }
+  h2{
+    color: #3304f1;
+    
+  }
+  table{
+    color: #0e65ac;
+  }
+  p{
+    font-weight: normal;
+    font-size: 20px;
+  }
+  img{
+    position: absolute;
+    top: 10px;
+    right: 20px;
+    height: 100px;
+    width: 100px;
+  }
